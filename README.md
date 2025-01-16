@@ -1,2 +1,2 @@
 # ai
-# Testy API Ollama i OpenAI 
+# Testy API Ollama zainstalowanego na lokalnej maszynie i OpenAI 
