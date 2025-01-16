@@ -16,8 +16,8 @@ MODEL = "llama3.2"
 # Przykładowe wiadomości dla modelu
 
 messages = [
-    {"role": "system", "content": "Jesteś nauczycielem"},
-    {"role": "user", "content": "Czego najlepiej nauczyć 6 letnie dziecko z matematyki odpowiedz w formacie HTML"}
+    {"role": "system", "content": "Jesteś nauczycielem w szkole podstawowej"},
+    {"role": "user", "content": "Napisz wypracowanie na 2000 słów na temat prawa i sprawiedliwości"}
 ]
 payload = {
         "model": MODEL,
